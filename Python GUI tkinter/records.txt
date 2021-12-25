@@ -1,0 +1,2 @@
+('Tahmid', '01515637957', 'Male', 'Visa', 1)
+('Rahim', '01515637958', 'Male', 'MasterCard', 0)

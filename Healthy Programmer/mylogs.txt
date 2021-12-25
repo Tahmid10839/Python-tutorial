@@ -1,0 +1,6 @@
+
+Drank water at [2020-04-16 15:18:04.898710]
+Drank water at [2020-04-16 15:28:42.626139]
+Eye relaxed at [2020-04-16 15:28:50.457423]
+Drank water at [2020-04-16 15:28:57.617476]
+Physical exercised at [2020-04-16 15:29:02.372408]
